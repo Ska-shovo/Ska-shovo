@@ -1,5 +1,6 @@
 # 💫 About Me:
-Name : Shovo Kumar Acharjo <br>Department : Educational Technology and Engineering<br>Varsity : University of Frontier Technology, Bangladesh .“Passionate about Education and Technology. I love exploring how innovative tech can make learning smarter, easier, and more engaging.”
+Name : Shovo Kumar Acharjo <br>Department : Educational Technology and Engineering<br>Varsity : University of Frontier Technology, Bangladesh .
+“Passionate about Education and Technology. I love exploring how innovative tech can make learning smarter, easier, and more engaging.”
 
 
 ## 🌐 Socials:
